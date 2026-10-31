@@ -1,0 +1,7 @@
+tensorflow>=2.15
+medmnist
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
